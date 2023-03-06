@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jimzers
+  - scott-yj-yang
+  - danielcson
+  - akdec00
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jimzers/DSC180B-A08
