@@ -11,7 +11,7 @@ profile:
   address: >
     <p>walker</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
@@ -57,5 +57,40 @@ The online model seems to have more unstableness compared
     LHS is the walker walking, RHS is the walker's states and rewards
 </div>
 
+# Side-by-side Comparison
 
+<div class="row justify-content-sm-center">
+    <div>
+      <video width="800" height="600" controls autoplay>
+      <source src="assets/videos/TwoAgents.mp4" type="video/mp4">
+      </video>
+    </div>
+</div>
+<div class="caption">
+    BC Agents is more robust as the kinematic data contain less noise.
+</div>
+
+# TSNE Clustering of Kinematics
+
+<div class="row justify-content-sm-center">
+    <div>
+      <video width="800" height="600" controls autoplay>
+      <source src="assets/videos/tsne_sac_walking_highlights_watershed_show_tracks.mp4" type="video/mp4">
+      </video>
+    </div>
+</div>
+<div class="caption">
+    The TSNE Cluster is loose, indicating inconsistancy of the kinematics
+</div>
+
+<div class="row justify-content-sm-center">
+    <div>
+      <video width="800" height="600" controls autoplay>
+      <source src="assets/videos/tsne_bc_walking_highlights_watershed.mp4" type="video/mp4">
+      </video>
+    </div>
+</div>
+<div class="caption">
+    The TSNE Cluster is dense, indicating the smoothness of the kinematics
+</div>
 
