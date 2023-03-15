@@ -99,7 +99,7 @@ The online model seems to have more unstableness compared
 
 <div class="row justify-content-sm-center">
   <div align="center">
-  <img src="assets/img/cka.png" width="350" title="CKA Analysis">
+  <img src="assets/img/cka.png" width="500" title="CKA Analysis">
   </div>
 </div>
 <div class="caption">
