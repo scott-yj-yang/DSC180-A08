@@ -94,3 +94,8 @@ The online model seems to have more unstableness compared
     The TSNE Cluster is dense, indicating the smoothness of the kinematics
 </div>
 
+
+# CKA Analysis
+
+<img src="assets/img/cka.png">
+
