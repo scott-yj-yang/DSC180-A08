@@ -99,3 +99,4 @@ The online model seems to have more unstableness compared
 
 <img src="https://github.com/scott-yj-yang/DSC180-A08/blob/master/assets/img/cka.png" style="display: block; margin: auto;">
 
+The CKA analysis suggests the representations between the online reinforcement and behavior cloning (BC) models are dissimilar. The addition of noise helps the BC model learn slightly more similar representations. 
