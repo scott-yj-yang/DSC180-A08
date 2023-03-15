@@ -99,7 +99,7 @@ The online model seems to have more unstableness compared
 
 <div class="row justify-content-sm-center">
     <div>
-      ![image](/assets/images/cka.png)
+      ![image]<p>(/assets/images/cka.png)</p>
     </div>
 </div>
 <div class="caption">
