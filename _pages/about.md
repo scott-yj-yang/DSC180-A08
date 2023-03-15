@@ -97,5 +97,5 @@ The online model seems to have more unstableness compared
 
 # CKA Analysis
 
-<img src="assets/img/cka.png">
+<img src="https://github.com/scott-yj-yang/DSC180-A08/blob/master/assets/img/cka.png">
 
