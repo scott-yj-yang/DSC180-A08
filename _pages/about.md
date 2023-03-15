@@ -15,7 +15,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-This is a skeleton project repository website for DSC 180 - A08
+This is a project repository website for DSC 180 - A08
 
 # Background
 
